@@ -1,6 +1,6 @@
 ﻿#include "pch.h"
 #include "tipsware.h"
-
+//dont
 void OnLButtonDown(int a_mixed_key, POINT a_pos)
 {
 	unsigned int x = (unsigned int)a_pos.x / 30, y = (unsigned int)a_pos.y / 30;
