@@ -148,6 +148,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Constant.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="Minesweeper.h" />
     <ClInclude Include="pch.h" />
