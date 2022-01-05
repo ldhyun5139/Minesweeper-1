@@ -1,6 +1,10 @@
 ﻿#ifndef __CONSTANT_H__
 #define __CONSTANT_H__
 
+#define EASY   1000    // 난이도 쉬움
+#define NORMAL 1001    // 난이도 보통
+#define HARD   1002    // 난이도 어려움
+
 #define EASY_X_COUNT    9    // 쉬움 난이도 x축 개수
 #define EASY_Y_COUNT    9    // 쉬움 난이도 y축 개수
 #define NORMAL_X_COUNT 16    // 보통 난이도 x축 개수

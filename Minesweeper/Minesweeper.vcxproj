@@ -150,6 +150,7 @@
   <ItemGroup>
     <ClInclude Include="Constant.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="Function.h" />
     <ClInclude Include="GUI.h" />
     <ClInclude Include="Minesweeper.h" />
     <ClInclude Include="pch.h" />
@@ -157,6 +158,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Function.cpp" />
     <ClCompile Include="GUI.cpp" />
     <ClCompile Include="Minesweeper.cpp" />
     <ClCompile Include="pch.cpp">
